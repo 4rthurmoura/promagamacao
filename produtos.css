@@ -70,3 +70,14 @@ nav a{
     font-size: 22px;
     font-weight: bold;
 }
+footer{
+    text-align: center;
+    background: url("bg\ \(1\).jpg");
+    padding: 40px 0;
+}
+
+.copyright{
+    color: white;
+    font-size: 13px;
+    margin: 20px 0 0;
+}

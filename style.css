@@ -102,3 +102,29 @@ main{
  .checkbox{
     margin: 20px 0px;
  }
+ .enviar{
+    width: 40%;
+    padding: 15px 0;
+    background: rgba(2, 2, 88, 0.411);
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+ }
+ .enviar:hover{
+background: black;
+transform: scale(1.2);
+ }
+table{
+    margin: 20px 0 20px;
+}
+thead{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+td, tr{
+    border: 1px solid black;
+    padding:  8px 15px;
+}
